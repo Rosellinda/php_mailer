@@ -1,0 +1,2 @@
+What is SMTP?
+The simple mail transfer protocol is a communication protocol for electronic mail transmission.
